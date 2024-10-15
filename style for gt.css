@@ -1,0 +1,83 @@
+#pra {
+  color: red;
+  background-color: black;
+  text-align: center;
+  font-size: xx-large;
+}
+#pav {
+  color: red;
+  background-color: black;
+}
+#one {
+  color: black;
+}
+#two {
+  color: red;
+}
+#three {
+  color: green;
+}
+#four {
+  color: silver;
+}
+#six {
+  color: grey;
+}
+#seven {
+  color: blue;
+}
+#eight {
+  color: red;
+  text-align: center;
+}
+img {
+  height: 400px;
+  width: px;
+}
+#nine {
+  color: black;
+  text-align: left;
+}
+#ten {
+  color: green;
+  text-align: center;
+}
+#ele {
+  color: black;
+  text-align: left;
+}
+#twe {
+  color: silver;
+  text-align: center;
+}
+#thi {
+  color: black;
+  text-align: left;
+}
+#fou {
+  color: grey;
+  text-align: center;
+}
+#fif {
+  color: black;
+  text-align: left;
+}
+#sixt {
+  color: gray;
+  text-align: center;
+}
+#sev {
+  color: black;
+  text-align: left;
+}
+#eig {
+  color: blue;
+  text-align: center;
+}
+#nin {
+  color: black;
+  text-align: left;
+}
+body {
+  background-image: url(./bg.jpg);
+}
